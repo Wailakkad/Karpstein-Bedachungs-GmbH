@@ -1,0 +1,6 @@
+{
+  "name": "Dach Meister Hero",
+  "description": "A premium, modern, minimal hero section for a luxury German roofing company website, built with React, Tailwind CSS, and Framer Motion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
