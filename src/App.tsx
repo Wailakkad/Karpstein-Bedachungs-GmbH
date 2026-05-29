@@ -22,8 +22,8 @@ export default function App() {
     accentColor: "#1E5FA8",  // Medium Blue
     phone: "+49 (0) 5321 78901",
     email: "anfrage@karpstein-bedachungen.de",
-    heroImage: "/src/assets/images/roof_house_1780051287487.png",
-    secondaryImage: "/src/assets/images/roof_detail_1780051306925.png",
+    heroImage: "/roof_house_1780051287487.png",
+    secondaryImage: "/roof_detail_1780051306925.png",
     yearsExperience: "30+",
     completedProjects: "3K+",
     happyClients: "1.5K+",

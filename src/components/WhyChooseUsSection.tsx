@@ -29,7 +29,7 @@ export default function WhyChooseUsSection({ primaryColor, accentColor, city }: 
         {/* Full-width background image */}
         <div className="absolute inset-0 w-full h-full pointer-events-none select-none z-0">
           <img 
-            src="/src/assets/images/premium_roof_installation_1780052724484.png"
+            src="/premium_roof_installation_1780052724484.png"
             alt="Professioneller Dachdeckermeister bei der Arbeit"
             className="w-full h-full object-cover opacity-80"
             referrerPolicy="no-referrer"

@@ -93,7 +93,7 @@ export default function FinalCTASection({ primaryColor, accentColor, phone }: Fi
             className="relative w-[85%] h-[90%] rounded-[20px] overflow-hidden shadow-sm bg-neutral-100 self-center ml-auto"
           >
             <img 
-              src="/src/assets/images/cta_banner_roof_1780053692583.png" 
+              src="/cta_banner_roof_1780053692583.png" 
               alt="Premium Dachdeckung meisterhaft durchgeführt"
               className="w-full h-full object-cover transform hover:scale-105 transition-transform duration-700 ease-out"
               referrerPolicy="no-referrer"
@@ -126,7 +126,7 @@ export default function FinalCTASection({ primaryColor, accentColor, phone }: Fi
             className="absolute bottom-2 left-0 w-[200px] h-[200px] rounded-[30px] overflow-hidden border-[6px] border-white shadow-2xl bg-neutral-200 z-30 hidden sm:block"
           >
             <img 
-              src="/src/assets/images/cta_detail_tiles_1780053721785.png" 
+              src="/cta_detail_tiles_1780053721785.png" 
               alt="Dachziegel detailpräzission"
               className="w-full h-full object-cover"
               referrerPolicy="no-referrer"
